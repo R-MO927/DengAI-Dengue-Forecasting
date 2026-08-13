@@ -1,5 +1,21 @@
 # DengAI: Dengue Fever Forecasting
 
+<h2 align="center">Live Demo</h2>
+
+<p align="center">
+  <a href="https://dengai-dengue-forecasting.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/OPEN%20DENGAI%20LIVE%20APP-7B1FA2?style=for-the-badge&logo=streamlit&logoColor=white" alt="Open DengAI Live App">
+  </a>
+</p>
+
+<p align="center">
+  <b>Interactive Dengue Forecasting Application</b><br>
+  Explore dengue cases and predictions for San Juan and Iquitos.
+</p>
+
+---
+
+
 A machine learning project for forecasting weekly dengue fever cases using historical disease observations, weather conditions, environmental indicators, and temporal features.
 
 The project focuses on two cities with different epidemiological and environmental patterns:
